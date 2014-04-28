@@ -16,6 +16,6 @@ Animate the transitions.
 Make the menu responsive by having 1 visible title block at a time instead of 3 at the media query breakpoint given in style.css.
 
 <b>Submission:</b><br>
-Email a zip file or a link to a public repo to accounts@hope-now.com
+Email a zip file or a link to a public repo to employment@hope-now.com
 
-Feel free to email accounts@hope-now.com with any questions.
+Feel free to email employment@hope-now.com with any questions.
