@@ -13,8 +13,7 @@ Disable the arrow buttons when the title blocks are all the way to the left or r
 Animate the transitions.
 
 <b>For super bonus points:</b><br>
-Make the menu responsive.<br>
-Show 1 title block at a time instead of 3 at the media query breakpoint given in style.css.
+Make the menu responsive by having 1 visible title block at a time instead of 3 at the media query breakpoint given in style.css.
 
 <b>Submission:</b><br>
 Email a zip file or a link to a public repo to accounts@hope-now.com
